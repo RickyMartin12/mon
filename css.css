@@ -1,0 +1,130 @@
+@font-face {
+    font-family: CenturyGothic;
+    src: url(CenturyGothic.ttf);
+}
+
+body {
+    background-color: #cccccc;
+	font-family: CenturyGothicStd, "Century Gothic", CenturyGothic;
+
+}
+
+
+body a {
+		color: #cc0000;
+	}
+
+.redlink{
+	
+		color: red;
+		 font-weight: bold;
+	
+}
+
+.canvas {
+	width: 1000px;
+    background-color: #fefefe;
+	margin: auto;
+	border: 1px solid red;
+	border-radius: 15px;
+	padding: 20px;
+	z-index:2;
+	word-wrap:normal;
+	word-break: normal;
+	box-shadow: 10px 10px 5px #999999;
+	position: absolute;
+	left: 50%;
+    top: 20px;
+	 margin-left:-500px;
+}  
+
+.divlogo{
+
+	position: absolute;
+	right:20px;
+	top:20px;
+	margin-top:5px;
+	margin-right:5px;
+
+
+
+
+}
+
+.popup1{
+	position:absolute;
+	background-color: #ffffff;
+	border: 1px solid red;
+	right:500px;
+	top:400px;
+	margin-top:5px;
+	margin-right:5px;
+	display: none;
+	z-index: 2;
+
+
+
+}
+
+
+
+
+.custom-map-control-button {
+  appearance: button;
+  background-color: #fff;
+  border: 0;
+  border-radius: 2px;
+  box-shadow: 0 1px 4px -1px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  margin: 10px;
+  padding: 0 0.5em;
+  height: 40px;
+  font: 400 18px Roboto, Arial, sans-serif;
+  overflow: hidden;
+}
+.custom-map-control-button:hover {
+  background: #ebebeb;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

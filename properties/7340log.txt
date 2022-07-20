@@ -1,0 +1,1 @@
+2022-06-21 16:01:43 adams: connection GPON added with equipment ZNTS8899<br>2022-06-21 16:02:15 adams: connection GPON added with equipment ZNTS778<br>2022-06-21 16:03:04 adams: deleted connection 8290 GPON, equip ZNTS778 and its services <br>2022-06-21 16:03:18 adams: connection GPON added with equipment ZNTS667<br>

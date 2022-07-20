@@ -1,0 +1,3 @@
+2022-06-20 16:32:24 adams: result gpon_delete_ont(1,1-10-7-28): 
+2022-06-20 16:32:24 adams: result gpon_register_ont(,): 
+2022-06-20 16:32:24 adams: ONT id changed on ALF122 ZNTS for ont 1-10-7-28 to 1-6-7-38 and olt1
